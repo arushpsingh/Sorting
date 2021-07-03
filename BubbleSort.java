@@ -1,4 +1,4 @@
-// Bubbel Sort time complexity : Worst ( O(n^2)), Average (Theta(n^2)), Best (Omega(n))
+// Bubble Sort time complexity : Worst ( O(n^2)), Average (Theta(n^2)), Best (Omega(n))
 
 import java.util.*;
 class Bubble{
