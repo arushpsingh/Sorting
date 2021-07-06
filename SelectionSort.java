@@ -1,3 +1,5 @@
+//Time complexity = O(n^2)
+
 import java.util.*;
 class Selection{
  public static void selection(int arr[], int n){
